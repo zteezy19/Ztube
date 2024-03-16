@@ -1,5 +1,5 @@
 # Ztube Design Doc
-<img src="images/Ztube.png" alt="Ztube logo" width="500" height="300">
+<img src="images/Ztube.png" alt="Ztube logo" width="300" height="300">
 
 # Introduction
 
