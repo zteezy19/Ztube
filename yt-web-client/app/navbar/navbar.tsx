@@ -8,6 +8,7 @@ import SignIn from "./signIn";
 import { onAuthStateChangedHelper } from "../firebase/firebase";
 import { useEffect, useState } from "react";
 import { User } from "firebase/auth";
+import Upload from "./upload";
 
 //closure: State inside the function is maintained even after it has finished executing.
 export default function NavBar() {
@@ -26,6 +27,7 @@ export default function NavBar() {
       <Link href="/">
         <Image width={90} height={20} src="/Ztube-logo.svg" alt="Ztube Logo" />
       </Link>
+      {user && <Upload />}
       <SignIn user={user} />
     </nav>
   );
