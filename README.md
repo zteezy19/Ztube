@@ -45,3 +45,10 @@ Next.js will be used to build a simple web client that will allow users to sign 
 ## Authentication (Firebase Auth)
 
 Firebase Auth will be used to handle user authentication, which allows us to easily integrate with Google Sign in.
+
+# Below screenshots will demonstrate what the app can do and the features implemented in real time.
+## Landing Page (User is not signed in)
+<img src="images/ztube1.png" alt="Ztube logo" width="550" height="236">
+
+## Users can sign in using gmail (implemented using Firebase Auth)
+<img src="images/ztube-signin.png" alt="Ztube logo" width="550" height="236">
