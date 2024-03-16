@@ -25,7 +25,12 @@ export default function NavBar() {
   return (
     <nav className={styles.nav}>
       <Link href="/">
-        <Image width={90} height={20} src="/Ztube-logo.svg" alt="youtube-Logo" />
+        <Image
+          width={90}
+          height={20}
+          src="/youtube-logo.svg"
+          alt="youtube-logo"
+        />
       </Link>
       {user && <Upload />}
       <SignIn user={user} />
