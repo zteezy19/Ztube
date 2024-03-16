@@ -14,7 +14,7 @@ The goal of this project is to build a simple full-stack application which imple
 - Users can view individual videos(regardless of whether they are signed in or not)
 
 # High Level Design
-<img src="images/ztube-clone-diagram.png" alt="Ztube logo" width="300" height="300">
+<img src="images/ztube-clone-diagram.png" alt="Ztube logo" width="500" height="271">
 
 ## Video Storage(Cloud Storage)
 
