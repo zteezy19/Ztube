@@ -51,4 +51,11 @@ Firebase Auth will be used to handle user authentication, which allows us to eas
 <img src="images/ztube1.png" alt="Ztube logo" width="550" height="236">
 
 ## Users can sign in using gmail (implemented using Firebase Auth)
-<img src="images/ztube-signin.png" alt="Ztube logo" width="550" height="236">
+<img src="images/ztube-signin.png" alt="Ztube logo" width="550" height="280">
+
+## Users can upload videos using upload button once they are signed in
+<img src="images/ztube-upload.png" alt="Ztube logo" width="550" height="236">
+
+## Users can click on a video thumbnail and be directed to Watch Page to watch videos
+<img src="images/ztube-watch.png" alt="Ztube logo" width="550" height="236">
+
