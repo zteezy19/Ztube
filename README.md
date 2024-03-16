@@ -1,4 +1,6 @@
 # Ztube Design Doc
+![Ztube logo](images/Ztube.png)
+
 
 # Introduction
 
